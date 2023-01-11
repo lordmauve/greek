@@ -7,6 +7,8 @@ identifiers.
 import math
 import builtins
 
+__version__ = '0.1.0'
+
 builtins.Σ = Σ = sum
 builtins.𝚺 = 𝚺 = sum
 builtins.ℂ = ℂ = complex
